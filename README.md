@@ -18,7 +18,7 @@
 
 > **Note:** Add your dashboard screenshot here
 > 
-> ![Dashboard Screenshot](./assets/dashboard-screenshot.png)
+> ![Dashboard Screenshot](/home/ayush/project-sentinel/frontend/src/assets/dashboard-screenshot.png)
 
 ## 🎯 Overview
 
@@ -168,31 +168,14 @@ ATTACK_RATE = 1000    # packets/second
 TARGET_PORT = 80      # HTTP port
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
-
-### 🐛 Found a Bug?
-- Check [existing issues](https://github.com/yourusername/project-sentinel/issues)
-- Create a [new issue](https://github.com/yourusername/project-sentinel/issues/new) with detailed description
-
-### 💡 Feature Requests
-- Open a [feature request](https://github.com/yourusername/project-sentinel/issues/new?template=feature_request.md)
-- Describe the use case and expected behavior
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-This tool is designed for **educational purposes only**. Use responsibly and only in authorized environments. The authors are not responsible for any misuse of this software.
 
 ## 🙏 Acknowledgments
 
-- **Mininet Team** for the network simulation framework
-- **Flask Community** for the excellent web framework
-- **React Team** for the powerful frontend library
+- **Team Member** Ayush Rathi(23BCE1509), Harjyot Singh Sehgal(23BCE1609), Rohit(23BCE1982)
 
 ---
 
@@ -200,6 +183,5 @@ This tool is designed for **educational purposes only**. Use responsibly and onl
 
 **Made with ❤️ for Cybersecurity Education**
 
-[⭐ Star this repo](https://github.com/yourusername/project-sentinel) • [🐛 Report Bug](https://github.com/yourusername/project-sentinel/issues) • [💡 Request Feature](https://github.com/yourusername/project-sentinel/issues)
 
 </div>

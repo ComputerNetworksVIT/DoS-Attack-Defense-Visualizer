@@ -16,9 +16,9 @@
 
 ## 📸 Demo
 
-> **Note:** Add your dashboard screenshot here
+
 > 
-> ![Dashboard Screenshot](/home/ayush/project-sentinel/frontend/src/assets/dashboard-screenshot.png)
+> ![Dashboard Screenshot](frontend/src/assets/dashboard-screenshot.png)
 
 ## 🎯 Overview
 
